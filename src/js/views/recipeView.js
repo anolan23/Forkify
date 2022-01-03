@@ -1,4 +1,3 @@
-import { Fraction } from 'fractional';
 import icons from 'url:../../img/icons.svg';
 import View from './view';
 
@@ -16,9 +15,7 @@ class RecipeView extends View {
         <svg class="recipe__icon">
           <use href="${icons}#icon-check"></use>
         </svg>
-        <div class="recipe__quantity">${
-          quantity ? new Fraction(quantity).toString() : ''
-        }</div>
+        <div class="recipe__quantity">${quantity}</div>
         <div class="recipe__description">
           <span class="recipe__unit">${unit}</span>
           ${description}
