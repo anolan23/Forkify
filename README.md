@@ -4,7 +4,7 @@ This is a frontend application only. Data fetches from a 3rd party [food API](ht
 
 ## Built with
 - HTML
-- CSS
+- SCSS
 - Javascript
 
 ## Available Scripts
