@@ -1,7 +1,6 @@
 # Forkify
 
-This is a frontend application only. Data fetches from a 3rd party [food API](https://forkify-api.herokuapp.com). It is a simple clone of the popular Unsplash website where you can add images and allow users to use them for free.
-
+This is a frontend application only. Data fetches from a 3rd party [food API](https://forkify-api.herokuapp.com). As a user of the website, they can search a nd bookmark recipes. They can also create recipes.
 ## Built with
 - HTML
 - SCSS
