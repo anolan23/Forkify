@@ -1,6 +1,6 @@
 # Forkify
 
-This is a frontend application only. Data fetches from a 3rd party [food API](https://forkify-api.herokuapp.com). As a user of the website, they can search a nd bookmark recipes. They can also create recipes.
+This is a frontend application only. Data fetches from a 3rd party [food API](https://forkify-api.herokuapp.com). As a user of the website, they can search and bookmark recipes. They can also create recipes.
 ## Built with
 - HTML
 - SCSS
